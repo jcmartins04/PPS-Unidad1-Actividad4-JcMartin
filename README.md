@@ -13,9 +13,9 @@ La actividad consiste en probar la aplicación de la calculadora, que has realiz
 ---
 ## Pruebas
 ---
-    Busca cuáles son las distintas alternativas que tienes para probar esta aplicación en una Sandbox.
-    Crea el entorno controlado y prueba la aplicación en él.
-    Documenta cómo has desarrollado el proyecto en github.
+> -    Busca cuáles son las distintas alternativas que tienes para probar esta aplicación en una Sandbox.
+> -    Crea el entorno controlado y prueba la aplicación en él.
+> -    Documenta cómo has desarrollado el proyecto en github.
 ---
 
 
@@ -28,17 +28,17 @@ La actividad consiste en probar la aplicación de la calculadora, que has realiz
 
 ## Entorno controlado en Sandbox
 
-> - - texto.
-
-> - - Texto.
+> - - Descargamos e instalamos Python3 por consola en Ubuntu 22.04.
+__''sudo apt install python3''__
 
 ![Instalar Firejail](img/Ubuntu-sandbox1.png)
 
-> - - Texto.
+> - - Descargamos e instalamos por consola el Sandbox "Firejail".
+__''sudo apt install firejail''__
 
 ![Instalar Firejail](img/Ubuntu-sandbox2.png)
 
-> - - texto.
+> - - Iniciamos Firejail Sandbox desde el gestor de programas de ubuntu o desde la consola escribiendo "firejail".
 
 ![Instalar Firejail](img/Ubuntu-sandbox3.png)
 
