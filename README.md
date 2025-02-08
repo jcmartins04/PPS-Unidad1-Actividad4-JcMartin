@@ -29,12 +29,12 @@ La actividad consiste en probar la aplicación de la calculadora, que has realiz
 ## Entorno controlado en Sandbox
 
 > - - Descargamos e instalamos Python3 por consola en Ubuntu 22.04.
-__''sudo apt install python3''__
+**''sudo apt install python3''
 
 ![Instalar Firejail](img/Ubuntu-sandbox1.png)
 
 > - - Descargamos e instalamos por consola el Sandbox "Firejail".
-__''sudo apt install firejail''__
+**''sudo apt install firejail''
 
 ![Instalar Firejail](img/Ubuntu-sandbox2.png)
 
