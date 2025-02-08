@@ -1,5 +1,5 @@
 # PPS-Unidad1-Actividad4-JcMartin
-##Actividad 4 Unidad 1 Prueba de aplicaciones en entorno controlado: Sandbox
+## Actividad 4 Unidad 1 Prueba de aplicaciones en entorno controlado: Sandbox
 
 
 En esta actividad vamos a trabajar sobre la prueba de aplicaciones en entornos controlados: sandboxex o cajas de arena.
@@ -48,22 +48,20 @@ Si además queremos disponer de una interfaz gráfica para gestionar nuestro san
 
 ![Instalar Firejail](img/Ubuntu-sandbox4.png)
 
-> - - texto.
-
-![Instalar Firejail](img/Ubuntu-sandbox5.png)
-
-> - - texto.
+> - - Al aceptar se abre una ventana de comandos konsole y otra que muestra el pid del proceso y una serie de menús en firejail.
 
 ![Instalar Firejail](img/Ubuntu-sandbox6.png)
 
-> - - texto.
+> - - La ventana de comandos ya se encuentra en el entorno sandbox. Navegamos hasta el directorio donde se encuentra el archivo.
+''cd /home/usuario/Downloads/ && python3 basic_cal.py''
 
 ![Instalar Firejail](img/Ubuntu-sandbox7.png)
 
-> - - texto.
+> - - Podemos navegar por los difentes menús que ofrece firejail y comprobar parámetros, como memoria y directorios.
 
 ![Instalar Firejail](img/Ubuntu-sandbox8.png)
 
+> - - Para salir simplemente matamos el proceso desde el menú terminar proceso.
 
 ## Enlaces de interés
 
