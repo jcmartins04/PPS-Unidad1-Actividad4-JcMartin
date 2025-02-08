@@ -24,21 +24,27 @@ La actividad consiste en probar la aplicación de la calculadora, que has realiz
 > Sobre la implementación de la aplicación de la calculadora en Python de la actividad anterior:
 > - Texto.
 
-> - Texto.
 
-  ![Instalar Firejail](img/Ubuntu-Sandbox1.png)
-
-> - Texto.
-
-![Instalar Firejail](img/Ubuntu-Sandbox2.png)
-
-> - - texto.
-
-> - - texto.
 
 ## Entorno controlado en Sandbox
 
 > - - texto.
+
+> - - Texto.
+
+![Instalar Firejail](img/Ubuntu-sandbox1.png)
+
+> - - Texto.
+
+![Instalar Firejail](img/Ubuntu-sandbox2.png)
+
+> - - texto.
+
+![Instalar Firejail](img/Ubuntu-sandbox3.png)
+
+> - - texto.
+
+![Instalar Firejail](img/Ubuntu-sandbox4.png)
 
 > - - texto.
 
