@@ -7,7 +7,7 @@ En esta actividad vamos a trabajar sobre la prueba de aplicaciones en entornos c
 Puedes ver en qué consiste y diferentes alternativas en el siguiente artículo:![Enlace Hysolate.com](https://www.hysolate.com/learn/sandboxing/what-is-app-sandboxing/)
 
 La actividad consiste en probar la aplicación de la calculadora, que has realizado en una actividad anterior, en un entorno controlado.
-> (Si no la tienes terminada, puedes usar la que tienes adjunta en la tarea)
+> (Si no la tienes terminada, puedes usar la que tienes ![adjunta](./code/basic_cal.py) en la tarea)
 
 ---
 ## Pruebas
@@ -53,7 +53,8 @@ Si además queremos disponer de una interfaz gráfica para gestionar nuestro san
 ![Instalar Firejail](img/Ubuntu-sandbox6.png)
 
 > - - La ventana de comandos ya se encuentra en el entorno sandbox. Navegamos hasta el directorio donde se encuentra el archivo.
-''cd /home/usuario/Downloads/ && python3 basic_cal.py''
+
+`cd /home/usuario/Downloads/ && python3 basic_cal.py`
 
 ![Instalar Firejail](img/Ubuntu-sandbox7.png)
 
@@ -61,7 +62,7 @@ Si además queremos disponer de una interfaz gráfica para gestionar nuestro san
 
 ![Instalar Firejail](img/Ubuntu-sandbox8.png)
 
-> - - Para salir simplemente matamos el proceso desde el menú terminar proceso.
+> - - Para salir simplemente matamos el proceso desde el menú "Shutdown" - terminar proceso.
 
 ## Enlaces de interés
 
